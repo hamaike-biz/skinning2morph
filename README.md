@@ -6,7 +6,10 @@ Install Skinning2Morph.py
 <img width="674" alt="image" src="https://user-images.githubusercontent.com/46149216/176428845-3a9a8e81-7c26-4dcf-a92e-0adaa02bb2b3.png">
 
 ### (2)
-Strip the target animation and create NLATrack
+Strip the target animation and create NLATrack.
+For NLATrack, enter an animation name such as walk/idle.
+This name is used as "animName" on the module side.
+
 <img width="1484" alt="image" src="https://user-images.githubusercontent.com/46149216/176429079-5fb0a2da-6338-4af8-9402-3ceefa550539.png">
 
 ### (3)
