@@ -19,3 +19,12 @@ With the target object selected, specify the number of frames and press "convert
 ### (4)
 Maintain the transform, clear the relationship with Armature, delete Armature, and you're done!
 <img width="796" alt="image" src="https://user-images.githubusercontent.com/46149216/176429580-af8a32c8-ecd2-4fca-8d20-1771ec9f788d.png">
+
+### (5)
+Verify that the morphing is successful.
+
+Open Gltf-viewer, drag and drop the 3D model, and if the animation plays, you have succeeded.
+
+https://gltf-viewer.donmccurdy.com/
+
+![スクリーンショット 2022-09-13 21 29 23](https://user-images.githubusercontent.com/46149216/189901389-cb83f4dd-909d-42dd-8308-6457476fc15a.png)
